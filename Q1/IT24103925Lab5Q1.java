@@ -12,8 +12,6 @@ public class IT24103925Lab5Q1 {
         System.out.print("Enter the third integer: ");
         int num3 = scanner.nextInt();
 
-        // Displaying the numbers entered by the user
-        System.out.println("User entered numbers are: " + num1 + " " + num2 + " " + num3);
 
         // Finding the smallest number
         int smallest = num1;  
